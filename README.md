@@ -3,7 +3,9 @@
 A Machine Learning-based web application that predicts whether a loan application is likely to be **Approved** or **Rejected** based on applicant details. The application is built using **Python**, **Scikit-learn**, and **Streamlit**, providing an interactive interface for users to explore the dataset and make real-time predictions.
 
 ---
+## 🚀 Live Demo
 
+**Streamlit App:** https://loan-approval-prediction-tg2rxdvdcvmhnory9jz4pz.streamlit.app/
 ## 📌 Project Overview
 
 Financial institutions receive thousands of loan applications every day. Evaluating each application manually is time-consuming and prone to human error.
